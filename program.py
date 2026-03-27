@@ -1,3 +1,5 @@
+# PLANILHA: Solicitações SEPLAG - SEFAZ
+
 from seleniumbase import SB
 import os
 import re
